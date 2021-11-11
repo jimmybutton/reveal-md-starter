@@ -1,0 +1,5 @@
+{
+  "controls": true,
+  "progress": true,
+  "scripts": "lib/mermaid.min.js,lib/reveal-mermaid.js"
+}
